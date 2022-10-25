@@ -10,9 +10,9 @@
     <p>FORMALÁRIO PARA INSCRIÇÃO DE COMPETIFDORES</p>
 
     <form action="info.php" method="post">
-        <p> Seu nome: <input type="text" name="" id=""></p>
-        <p> Sua idade: <input type="text" name="" id=""></p>
-        <p><input type="submit"></p>
+        <p> Seu nome: <input type="text" name="nome"></p>
+        <p> Sua idade: <input type="text" name="idade"></p>
+        <p><input type="submit" value="enviar"></p>
     </form>
     
 </body>
